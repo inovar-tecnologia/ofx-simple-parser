@@ -1,0 +1,29 @@
+{
+    "name": "inovartecnologia/ofx-simple-parser",
+    "description": "Leitor OFX 1.x para extratos de conta corrente",
+    "license": "MIT",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "InovarTecnologia\\OfxSimpleParser\\": "src/"
+        }
+    },
+    "require-dev": {
+        "pestphp/pest": "^5.3"
+    },
+    "scripts": {
+        "test": "pest --parallel --testsuite=default",
+        "test:ci": "pest --parallel --ci --testsuite=default --exclude-group=exemplos-local",
+        "test:amostra": "pest --parallel --ci --group=amostra",
+        "test:exemplos": "pest --parallel --ci --group=exemplos-local",
+        "test:mutate": "pest --mutate --parallel --testsuite=default",
+        "test:coverage": "pest --ci --testsuite=default --exclude-group=exemplos-local --coverage --min=90 --only-summary-for-coverage-text"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}

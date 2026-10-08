@@ -1,0 +1,527 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+<OFX>
+    <SIGNONMSGSRSV1>
+        <SONRS>
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <DTSERVER>2025031817202[-3:GMT]
+            <LANGUAGE>ENG
+            <FI>
+                <ORG>SANTANDER
+                <FID>SANTANDER
+            </FI>
+        </SONRS>
+    </SIGNONMSGSRSV1>
+    <BANKMSGSRSV1>
+        <STMTTRNRS>
+            <TRNUID>4
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <STMTRS>
+                <CURDEF>BRL
+                <BANKACCTFROM>
+                    <BANKID>033
+                    <ACCTID>0964690910462
+                    <ACCTTYPE>CHECKING
+                </BANKACCTFROM>
+                <BANKTRANLIST>
+                    <DTSTART>20250310000000[-3:GMT]
+                    <DTEND>20250318000000[-3:GMT]
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-440,00
+                        <FITID>88515242653383034
+                        <CHECKNUM>88515242653383034
+                        <PAYEEID>0
+                        <MEMO>TARIFA MENSALIDADE JAIYYT SERVICOS     DVETHARGY / 7433
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-26,26
+                        <FITID>8592735006399353
+                        <CHECKNUM>8592735006399353
+                        <PAYEEID>0
+                        <MEMO>MENSALIDADE DE SEGURO     PORTO SEGURO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-98,33
+                        <FITID>0005872408
+                        <CHECKNUM>0005872408
+                        <PAYEEID>0
+                        <MEMO>MENSALIDADE DE SEGURO     PARC 078/078 YE
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>51,60
+                        <FITID>08636121
+                        <CHECKNUM>08636121
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PORTO SEGURO SEGURO S
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-66,60
+                        <FITID>939544
+                        <CHECKNUM>939544
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     58/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>79,68
+                        <FITID>029247
+                        <CHECKNUM>029247
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 090711254886304
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>276,41
+                        <FITID>029247
+                        <CHECKNUM>029247
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 090711254886304
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>930,60
+                        <FITID>029247
+                        <CHECKNUM>029247
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 054480231774930
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-81,00
+                        <FITID>566176
+                        <CHECKNUM>566176
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     58/08 GOFHTQKJDNDSL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-82,00
+                        <FITID>598744
+                        <CHECKNUM>598744
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     58/08 TMVIUSM IBED JYGIDY
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-66,98
+                        <FITID>018306
+                        <CHECKNUM>018306
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     58/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-6848,00
+                        <FITID>842126684633877870
+                        <CHECKNUM>842126684633877870
+                        <PAYEEID>0
+                        <MEMO>PIX ENVIADO     LUIZ EWFJTLH YVIWQIVP
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-399,19
+                        <FITID>77787771746950026
+                        <CHECKNUM>77787771746950026
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE BOLETO JHIOGW GDLGAF     RLMFY AGPHA TFZWQJJ UWGPG
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-891,00
+                        <FITID>83607050914839039
+                        <CHECKNUM>83607050914839039
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE BOLETO JHIOGW GDLGAF     KQXTIIB XTPOEI E SERVICOS
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-234,90
+                        <FITID>62140944702175240
+                        <CHECKNUM>62140944702175240
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE BOLETO JHIOGW GDLGAF     GAWJD TECNOLOGIA LTDA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>-55,00
+                        <FITID>3918839779158991
+                        <CHECKNUM>3918839779158991
+                        <PAYEEID>0
+                        <MEMO>PIX ENVIADO     MQA BR
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250310000000[-3:GMT]
+                        <TRNAMT>4116,69
+                        <FITID>701757132186639515
+                        <CHECKNUM>701757132186639515
+                        <PAYEEID>0
+                        <MEMO>RESGATE DLKONMBM AUTOMATICO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250311000000[-3:GMT]
+                        <TRNAMT>849,66
+                        <FITID>02290059
+                        <CHECKNUM>02290059
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PORTO SEGURO CIA SEG
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250311000000[-3:GMT]
+                        <TRNAMT>502,55
+                        <FITID>04184926
+                        <CHECKNUM>04184926
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PORTO SEGURO SEGURO S
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250311000000[-3:GMT]
+                        <TRNAMT>-41,22
+                        <FITID>055484
+                        <CHECKNUM>055484
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     45/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250311000000[-3:GMT]
+                        <TRNAMT>-63,58
+                        <FITID>1536729346218440
+                        <CHECKNUM>1536729346218440
+                        <PAYEEID>0
+                        <MEMO>PIX ENVIADO     ENEL DISTRIBUICAO SAO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250311000000[-3:GMT]
+                        <TRNAMT>9,60
+                        <FITID>068850
+                        <CHECKNUM>068850
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 090711254886304
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250311000000[-3:GMT]
+                        <TRNAMT>-831,54
+                        <FITID>54337464630770034
+                        <CHECKNUM>54337464630770034
+                        <PAYEEID>0
+                        <MEMO>APLICACAO DLKONMBM
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250312000000[-3:GMT]
+                        <TRNAMT>1318,83
+                        <FITID>01702894
+                        <CHECKNUM>01702894
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PORTO SEGURO CIA SEG
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250312000000[-3:GMT]
+                        <TRNAMT>-19,66
+                        <FITID>911904
+                        <CHECKNUM>911904
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     98/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250312000000[-3:GMT]
+                        <TRNAMT>0,03
+                        <FITID>026108
+                        <CHECKNUM>026108
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 042536783427054
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250312000000[-3:GMT]
+                        <TRNAMT>-876,01
+                        <FITID>297384
+                        <CHECKNUM>297384
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     98/08 STDOF KRWASNB.QQXRB
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250312000000[-3:GMT]
+                        <TRNAMT>56,14
+                        <FITID>32519092
+                        <CHECKNUM>32519092
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     SUL AMERICA COMPANHIA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250312000000[-3:GMT]
+                        <TRNAMT>-2257,85
+                        <FITID>975577963591525957
+                        <CHECKNUM>975577963591525957
+                        <PAYEEID>0
+                        <MEMO>APLICACAO DLKONMBM
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250313000000[-3:GMT]
+                        <TRNAMT>605,55
+                        <FITID>08138982
+                        <CHECKNUM>08138982
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PORTO SEGURO CIA SEG
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250313000000[-3:GMT]
+                        <TRNAMT>983,00
+                        <FITID>067061
+                        <CHECKNUM>067061
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 054480231774930
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250313000000[-3:GMT]
+                        <TRNAMT>-33,44
+                        <FITID>226647
+                        <CHECKNUM>226647
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     44/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250313000000[-3:GMT]
+                        <TRNAMT>-6572,08
+                        <FITID>495044635092347634
+                        <CHECKNUM>495044635092347634
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE BOLETO JHIOGW GDLGAF     INOVARTECNOLOGIA BR CORRET. SE
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250313000000[-3:GMT]
+                        <TRNAMT>42,57
+                        <FITID>067061
+                        <CHECKNUM>067061
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 090711254886304
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250313000000[-3:GMT]
+                        <TRNAMT>-440,81
+                        <FITID>619964
+                        <CHECKNUM>619964
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     44/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250313000000[-3:GMT]
+                        <TRNAMT>177,69
+                        <FITID>60157156327079944
+                        <CHECKNUM>60157156327079944
+                        <PAYEEID>0
+                        <MEMO>RESGATE DLKONMBM AUTOMATICO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250314000000[-3:GMT]
+                        <TRNAMT>26,54
+                        <FITID>03233299
+                        <CHECKNUM>03233299
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PETSUPERMARKET NNGBUX
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250314000000[-3:GMT]
+                        <TRNAMT>-69,87
+                        <FITID>093405
+                        <CHECKNUM>093405
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     79/08 POSTO UVPFHIXND LTD
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250314000000[-3:GMT]
+                        <TRNAMT>7316,76
+                        <FITID>02170073
+                        <CHECKNUM>02170073
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PORTO SEGURO CIA SEG
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250314000000[-3:GMT]
+                        <TRNAMT>12,16
+                        <FITID>1402840538015054
+                        <CHECKNUM>1402840538015054
+                        <PAYEEID>0
+                        <MEMO>TED RECEBIDA     76374725680300
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250314000000[-3:GMT]
+                        <TRNAMT>-2159,00
+                        <FITID>234572837653537141
+                        <CHECKNUM>234572837653537141
+                        <PAYEEID>0
+                        <MEMO>PIX ENVIADO     LUIZ EWFJTLH M VULCZH
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250314000000[-3:GMT]
+                        <TRNAMT>720,56
+                        <FITID>77254380810704756
+                        <CHECKNUM>77254380810704756
+                        <PAYEEID>0
+                        <MEMO>RESGATE DLKONMBM AUTOMATICO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250317000000[-3:GMT]
+                        <TRNAMT>-964,32
+                        <FITID>885127
+                        <CHECKNUM>885127
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     85/08 POSTO CTEBBR LYMD
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250317000000[-3:GMT]
+                        <TRNAMT>-620,08
+                        <FITID>59076415371453884
+                        <CHECKNUM>59076415371453884
+                        <PAYEEID>0
+                        <MEMO>MENSALIDADE DE SEGURO     PORTO SEGURO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250317000000[-3:GMT]
+                        <TRNAMT>397,30
+                        <FITID>07967176
+                        <CHECKNUM>07967176
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     PORTO SEGURO CIA SEG
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250317000000[-3:GMT]
+                        <TRNAMT>88,43
+                        <FITID>018990
+                        <CHECKNUM>018990
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO A FORNECEDORES     IGBN 042536783427054
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250317000000[-3:GMT]
+                        <TRNAMT>-54,83
+                        <FITID>002296
+                        <CHECKNUM>002296
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     83/08 ROBERTO HPLPFET DE
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20250317000000[-3:GMT]
+                        <TRNAMT>147,18
+                        <FITID>46090052326379349
+                        <CHECKNUM>46090052326379349
+                        <PAYEEID>0
+                        <MEMO>RESGATE DLKONMBM AUTOMATICO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250318000000[-3:GMT]
+                        <TRNAMT>-26,08
+                        <FITID>749487
+                        <CHECKNUM>749487
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     97/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250318000000[-3:GMT]
+                        <TRNAMT>-4536,00
+                        <FITID>710269178058166886
+                        <CHECKNUM>710269178058166886
+                        <PAYEEID>0
+                        <MEMO>PIX ENVIADO     LUIZ EWFJTLH M VULCZH
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250318000000[-3:GMT]
+                        <TRNAMT>-56,29
+                        <FITID>407711
+                        <CHECKNUM>407711
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     97/08 KRJERE .VNDMSNS DA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250318000000[-3:GMT]
+                        <TRNAMT>-57,88
+                        <FITID>963752
+                        <CHECKNUM>963752
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO DEB UD     97/08 DJBN SHLRL.3383
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20250318000000[-3:GMT]
+                        <TRNAMT>-5061,60
+                        <FITID>952408627417726220
+                        <CHECKNUM>952408627417726220
+                        <PAYEEID>0
+                        <MEMO>PIX ENVIADO     CAIXA AZWEEYWVR CKFQR
+                    </STMTTRN>
+                </BANKTRANLIST>
+                <LEDGERBAL>
+                    <BALAMT>-6782,04
+                    <DTASOF>2025031817202[-3:GMT]
+                </LEDGERBAL>
+            </STMTRS>
+        </STMTTRNRS>
+    </BANKMSGSRSV1>
+</OFX>

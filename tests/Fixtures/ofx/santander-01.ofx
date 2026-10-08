@@ -1,0 +1,104 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+<OFX>
+    <SIGNONMSGSRSV1>
+        <SONRS>
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <DTSERVER>2024051315034[-3:GMT]
+            <LANGUAGE>ENG
+            <FI>
+                <ORG>SANTANDER
+                <FID>SANTANDER
+            </FI>
+        </SONRS>
+    </SIGNONMSGSRSV1>
+    <BANKMSGSRSV1>
+        <STMTTRNRS>
+            <TRNUID>4
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <STMTRS>
+                <CURDEF>BRC
+                <BANKACCTFROM>
+                    <BANKID>033
+                    <ACCTID>0708087322507
+                    <ACCTTYPE>CHECKING
+                </BANKACCTFROM>
+                <BANKTRANLIST>
+                    <DTSTART>2024051315034[-3:GMT]
+                    <DTEND>2024051315034[-3:GMT]
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20240502000000[-3:GMT]
+                        <TRNAMT>88,54
+                        <FITID>00642005
+                        <CHECKNUM>00642005
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO - DIF TIT     67346049043597
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20240503000000[-3:GMT]
+                        <TRNAMT>276,26
+                        <FITID>00094637
+                        <CHECKNUM>00094637
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     93902408503971
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20240503000000[-3:GMT]
+                        <TRNAMT>-908,58
+                        <FITID>00032893
+                        <CHECKNUM>00032893
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO CONTA CELULAR EM BISSIK     INTERNET VIVO-SP
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20240506000000[-3:GMT]
+                        <TRNAMT>-85,55
+                        <FITID>00063858
+                        <CHECKNUM>00063858
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE BOLETO JHIOGW GDLGAF     ASSOCIACAO COMERCIAL E EM
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20240510000000[-3:GMT]
+                        <TRNAMT>-22,00
+                        <FITID>00086593
+                        <CHECKNUM>00086593
+                        <PAYEEID>0
+                        <MEMO>TARIFA MENSALIDADE JAIYYT SERVICOS     ABRIL / 3919
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20240510000000[-3:GMT]
+                        <TRNAMT>393,39
+                        <FITID>00018357
+                        <CHECKNUM>00018357
+                        <PAYEEID>0
+                        <MEMO>PIX RECEBIDO     75551488637745
+                    </STMTTRN>
+                </BANKTRANLIST>
+                <LEDGERBAL>
+                    <BALAMT>84,32
+                    <DTASOF>2024051315034[-3:GMT]
+                </LEDGERBAL>
+            </STMTRS>
+        </STMTTRNRS>
+    </BANKMSGSRSV1>
+</OFX>

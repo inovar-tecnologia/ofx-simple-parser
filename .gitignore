@@ -1,0 +1,14 @@
+/vendor/
+/.phpunit.cache/
+/.pest/
+/exemplos/
+/.stub-seed
+/inventario-exemplos.csv
+/.stub-substituicoes
+
+.DS_Store
+.idea/
+
+.cursor/
+.claude/
+.codex/

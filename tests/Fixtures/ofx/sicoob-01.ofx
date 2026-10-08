@@ -1,0 +1,259 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+<OFX>
+  <SIGNONMSGSRSV1>
+    <SONRS>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <DTSERVER>20231113171126[-3:BRT]</DTSERVER>
+      <LANGUAGE>POR</LANGUAGE>
+      <FI>
+        <ORG>Banco Cooperativo do Brasil</ORG>
+        <FID>756</FID>
+      </FI>
+    </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>4160tzpy-0cta-27fn-9j69-a0a115e9uw96</TRNUID>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <STMTRS>
+        <CURDEF>BRL</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>756</BANKID>
+          <BRANCHID>1416</BRANCHID>
+          <ACCTID>4826</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+          <DTSTART>20231101000000[-3:BRT]</DTSTART>
+          <DTEND>20231101000000[-3:BRT]</DTEND>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231101000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>58.37</TRNAMT>
+            <FITID>77207449977566</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20231101000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>-6136.00</TRNAMT>
+            <FITID>7958766614687801</FITID>
+            <CHECKNUM>6119291</CHECKNUM>
+            <REFNUM>6119291</REFNUM>
+            <MEMO>DÉB.TRANSF.CONTAS DIF.TITULARIDADE</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231101000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>82.99</TRNAMT>
+            <FITID>27156574055320</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231103000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>945.73</TRNAMT>
+            <FITID>603900723031088</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231103000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>33.33</TRNAMT>
+            <FITID>12112617981079</FITID>
+            <CHECKNUM>428608056</CHECKNUM>
+            <REFNUM>428608056</REFNUM>
+            <MEMO>CRÉD.TED-STR</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231103000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>97.72</TRNAMT>
+            <FITID>57558336178597</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20231103000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>-148.00</TRNAMT>
+            <FITID>993606399669329</FITID>
+            <CHECKNUM>7817202</CHECKNUM>
+            <REFNUM>7817202</REFNUM>
+            <MEMO>DÉB.TRANSF.CONTAS DIF.TITULARIDADE</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20231106000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>-7931.72</TRNAMT>
+            <FITID>9600972040271607</FITID>
+            <CHECKNUM>4435712</CHECKNUM>
+            <REFNUM>4435712</REFNUM>
+            <MEMO>DÉB.TIT.COMPE EFETIVADO</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20231106000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>-227.66</TRNAMT>
+            <FITID>342415841798300</FITID>
+            <CHECKNUM>1136890</CHECKNUM>
+            <REFNUM>1136890</REFNUM>
+            <MEMO>DÉB.TIT.COMPE EFETIVADO</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231106000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>1715.00</TRNAMT>
+            <FITID>1618941928060868</FITID>
+            <CHECKNUM>788</CHECKNUM>
+            <REFNUM>788</REFNUM>
+            <MEMO>RESGATE VKU</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231106000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>612.73</TRNAMT>
+            <FITID>991382759775778</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231106000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>54.00</TRNAMT>
+            <FITID>85217433062270</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231107000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>7121.85</TRNAMT>
+            <FITID>9514959763195928</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231108000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>2280.54</TRNAMT>
+            <FITID>7156342449051138</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20231108000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>-9201.00</TRNAMT>
+            <FITID>7759270854476310</FITID>
+            <CHECKNUM>2423442</CHECKNUM>
+            <REFNUM>2423442</REFNUM>
+            <MEMO>DÉB.TRANSF.CONTAS DIF.TITULARIDADE</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231108000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>245.11</TRNAMT>
+            <FITID>822670920847183</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231109000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>812.27</TRNAMT>
+            <FITID>734412870661049</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231109000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>826.90</TRNAMT>
+            <FITID>283741649714463</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231109000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>820.85</TRNAMT>
+            <FITID>621085615930467</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231110000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>775.26</TRNAMT>
+            <FITID>689356774375794</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231110000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>536.51</TRNAMT>
+            <FITID>521042931690147</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231110000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>54.35</TRNAMT>
+            <FITID>23406708725434</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20231110000000[-3:BRT]</DTPOSTED>
+            <TRNAMT>656.68</TRNAMT>
+            <FITID>426279451893284</FITID>
+            <CHECKNUM>0</CHECKNUM>
+            <REFNUM>Xzq</REFNUM>
+            <MEMO>PIX RECEBIDO - OUTRA IF</MEMO>
+          </STMTTRN>
+        </BANKTRANLIST>
+        <LEDGERBAL>
+          <BALAMT>6294.87</BALAMT>
+          <DTASOF>20231113171126[-3:BRT]</DTASOF>
+        </LEDGERBAL>
+      </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
