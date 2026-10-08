@@ -71,7 +71,6 @@ composer test:coverage # cobertura de src/ (falha abaixo de 90%; Pest --coverage
 ```
 
 O CI em `.github/workflows/tests.yml` roda só `test:coverage` (PCOV, mínimo **90%** — já inclui a suíte de testes).
-```
 
 A **amostra convertida** são os 47 stubs anonimizados gerados por `scripts/gerar-stubs.py` a partir de `exemplos/`, versionados em `tests/Fixtures/ofx/` com `manifest.json`. O corpus bruto em `exemplos/` não entra no repositório.
 
